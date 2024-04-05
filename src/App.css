@@ -4,6 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+body {
+ background-image:url(./Background_img.jpg);
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
 
 .logo {
   height: 6em;

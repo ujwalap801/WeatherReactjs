@@ -1,10 +1,12 @@
 .InfoBox{
     text-align: center;
+
     
 }
 
 .cardConatiner{
     display: flex;
     justify-content: center;
-    border:5px solid pink;
+    border:5px solid rgb(210, 210, 210);
+  
 }
