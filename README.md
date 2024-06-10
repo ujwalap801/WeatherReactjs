@@ -37,7 +37,7 @@ By entering the city name, you can get:
 # 🌐Demo
 https://weathersummary.netlify.app/ 
 
-#🚀Installation and Setup
+# 🚀Installation and Setup
 1) Clone the repository:
 git clone https://github.com/yourusername/WeatherApp.git
 
